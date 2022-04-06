@@ -2,7 +2,7 @@ Future ready talent Internship project This is my First E-Commerce Website I tri
 
 Industry: Lifestyle
 
-Project Title: Tshirt Store
+Project Title: Manchester Tshirt Store
 
 Problem Statement/Opportunity*: E-commerce helps lower the cost of a product and allows less wealthy people to buy it. E-commerce has given us access to services and products that are not otherwise available in rural areas. E-commerce provides an important platform for promoting and marketing products around the world. webiste is an interesting idea for introducing new products to customers. Websites provide business people with the opportunity to communicate with their customers over the Internet. Luxury brands weren't ready to stop production in preparation for the Covid 19 outbreak. No one was ready, but the good thing about e-commerce, lifestyle and fashion brands is that they are almost always the creative acclaim of the moment. Consumers most often enjoy the convenience and simplicity of shopping online and delivering orders. Industry adoption and growth is magical as fashion and lifestyle brands listen to consumers changing their norms regarding style.
 
